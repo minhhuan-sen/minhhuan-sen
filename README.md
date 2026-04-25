@@ -32,6 +32,14 @@
 
 ---
 
+## 🏆 Achievements & Awards
+
+| 🥈 | Event | Result | Certificate |
+|----|-------|--------|-------------|
+| 🏅 | **Swin Hackathon** — Swinburne Vietnam | **Top 2 / Runner-up** | [View Certificate](https://drive.google.com/file/d/1LZ_qHpu3IwcCTtNKgORkLLlyeT3tFeNi/view?usp=sharing) |
+
+---
+
 ## 🔧 Tech Stack
 
 ### ☁️ Cloud & Infrastructure
@@ -47,6 +55,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -79,9 +88,8 @@
 ✅ Infrastructure as Code with Terraform
 ✅ CI/CD with GitHub Actions
 ✅ Containerization with Docker & ECS
-🔄 Kubernetes (in progress)
-🔄 Advanced Cloud Security & IAM hardening
-⬜ AWS DevOps Engineer – Professional (DVA/DOP)
+⬜ Kubernetes (in progress)
+⬜ Advanced Cloud Security & IAM hardening
 ⬜ Certified Kubernetes Administrator (CKA)
 ⬜ Platform Engineering & Internal Developer Platforms
 ```

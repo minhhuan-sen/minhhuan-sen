@@ -34,9 +34,9 @@
 
 ## 🏆 Achievements & Awards
 
-| 🥈 | Event | Result | Certificate |
+|    | Event | Result | Certificate |
 |----|-------|--------|-------------|
-| 🏅 | **Swin Hackathon** — Swinburne Vietnam | **Top 2 / Runner-up** | [View Certificate](https://drive.google.com/file/d/1LZ_qHpu3IwcCTtNKgORkLLlyeT3tFeNi/view?usp=sharing) |
+| 🥈 | **Swin Hackathon** — Swinburne Vietnam | **Top 2 / Runner-up** | [View Certificate](https://drive.google.com/file/d/1LZ_qHpu3IwcCTtNKgORkLLlyeT3tFeNi/view?usp=sharing) |
 
 ---
 
